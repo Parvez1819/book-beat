@@ -1,0 +1,146 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co.com/DgfMGHp/rsz-1img7.jpg",
+        "review": "A masterfully crafted psychological thriller that keeps you hooked from start to finish, filled with suspense and chilling intrigue. Each page is layered with dark secrets and mind-bending turns, leading to a jaw-dropping twist that lingers long after you've turned the last page",
+        "totalPages": 336,
+        "rating": 4.2,
+        "category": "Thriller",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co.com/Qdwb9YB/rsz-img1.jpg",
+        "review": "A deeply moving memoir that delves into the complexities of resilience and the journey toward self-discovery. With raw honesty and inspiring insight, it captures the courage required to overcome life's challenges and find one's true self. An unforgettable testament to the strength of the human spirit.",
+        "totalPages": 334,
+        "rating": 4.5,
+        "category": "Memoir",
+        "tags": [
+            "Inspirational",
+            "Non-Fiction"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co.com/QmHXqNj/rsz-img2.jpg",
+        "review": "A hauntingly beautiful story woven with layers of love, longing, and suspense. Each page drips with emotion, drawing readers into an atmospheric world where secrets and passions intertwine. A captivating blend of romance and mystery, this tale lingers long after the last page.",
+        "totalPages": 370,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Mystery",
+            "Drama"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 4,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://i.ibb.co.com/DwJRPDQ/rsz-img3.jpg",
+        "review": "An insightful, practical guide that empowers readers to create positive, lasting changes. This book breaks down the science of habit formation, offering clear strategies to build good habits and eliminate the bad ones. It's a transformative resource for anyone looking to improve their life one small step at a time.",
+        "totalPages": 320,
+        "rating": 4.7,
+        "category": "Self-Help",
+        "tags": [
+            "Motivational",
+            "Productivity"
+        ],
+        "publisher": "Penguin Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co.com/ZmqNMKy/rsz-img4.jpg",
+        "review": "An enchanting tale that sweeps readers into a world of wonder and introspection. This story blends fantasy with profound insights, inviting readers to join a journey of self-discovery and personal growth. It’s a heartfelt adventure where magic and life lessons intertwine, leaving an inspiring and lasting impression.",
+        "totalPages": 208,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Inspirational",
+            "Adventure"
+        ],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 6,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co.com/2SShPnd/rsz-img5.jpg",
+        "review": "A deeply personal and uplifting memoir that offers a rare glimpse into the life of a former First Lady. This book reveals her challenges, triumphs, and values, sharing stories of resilience, hope, and the power of staying true to oneself. It’s a compelling journey of growth, strength, and inspiration.",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Memoir",
+        "tags": [
+            "Inspirational",
+            "Biography"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 7,
+        "bookName": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "image": "https://i.ibb.co.com/GW8J8fP/rsz-img6.jpg",
+        "review": "A compelling exploration into the science of habits, this book provides clear, actionable strategies to understand why habits form and how to change them. With practical insights and effective tools, it guides readers on a path to self-improvement by making small, sustainable changes that lead to lasting transformation.",
+        "totalPages": 371,
+        "rating": 4.3,
+        "category": "Self-Help",
+        "tags": [
+            "Motivational",
+            "Psychology"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2012
+    },
+    {
+        "bookId": 8,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co.com/vdsM2vC/rsz-img8.jpg",
+        "review": "A poignant and enduring novel that delves into the complexities of growing up, capturing the struggles, self-discovery, and rebellious spirit of adolescence. Through relatable characters and honest storytelling, this classic resonates across generations, offering a profound look at youth, identity, and the journey to adulthood.",
+        "totalPages": 214,
+        "rating": 4.0,
+        "category": "Classic Fiction",
+        "tags": [
+            "Coming of Age",
+            "Drama"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 9,
+        "bookName": "A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co.com/jgVkSQt/rsz-img9.jpg",
+        "review": "Human history and culture reveal the intricate tapestry of beliefs, struggles, and achievements that have shaped societies across time. From ancient civilizations to modern innovations, each era contributes to a collective narrative of resilience, creativity, and transformation, inviting reflection on our shared human journey.",
+        "totalPages": 464,
+        "rating": 4.8,
+        "category": "History",
+        "tags": [
+            "Non-Fiction",
+            "Anthropology"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2015
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "The Alchemist",
+        "coverpic": "https://i.ibb.co.com/0BLNDB8/pic1.jpg",
+        "writer_name": "Paulo Coelho",
+        "publications": "HarperOne",
+        "published_date": "1988-05-01",
+        "story_in_short": "Santiago, a shepherd from Spain, dreams of discovering a treasure hidden in the Egyptian pyramids. Encouraged by a mysterious old king named Melchizedek, he sells his flock and embarks on a journey to follow his destiny. Along the way, he works for a crystal merchant, meets an Englishman studying alchemy, and falls in love with a woman named Fatima in a desert oasis. Santiago learns that the journey itself is as important as the destination, encountering life lessons and challenges that shape him. Guided by signs and his intuition, he discovers that true treasure lies not in material wealth but in self-discovery and understanding one's purpose in life. When he finally reaches the pyramids, Santiago finds his treasure buried at the very place where he had his dream, symbolizing that the answers to life’s mysteries often lie within us."
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "coverpic": "https://i.ibb.co.com/tPg9V50/pic2.jpg",
+        "writer_name": "Harper Lee",
+        "publications": "J.B. Lippincott & Co.",
+        "published_date": "1960-07-11",
+        "story_in_short": "Set in the 1930s Deep South, the story is narrated by Scout Finch, a young girl living in the fictional town of Maycomb, Alabama. Her father, Atticus Finch, is an upright lawyer tasked with defending Tom Robinson, a Black man falsely accused of raping a white woman, Mayella Ewell. Through Scout's eyes, the novel explores themes of racial injustice, morality, and the complexities of human behavior. Despite proving Tom's innocence, Atticus loses the trial due to the deep-seated prejudices of the time. Meanwhile, Scout and her brother Jem are fascinated by their reclusive neighbor, Boo Radley, whose mysterious presence becomes pivotal as the story unfolds. When Bob Ewell, Mayella’s abusive father, seeks revenge on Atticus, Boo emerges as an unlikely hero, saving Scout and Jem. The novel emphasizes the importance of empathy and standing up for what is right, even in the face of societal opposition."
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "coverpic": "https://i.ibb.co.com/JnFzzYj/pic3.jpg",
+        "writer_name": "George Orwell",
+        "publications": "Secker & Warburg",
+        "published_date": "1949-06-08",
+        "story_in_short": "Winston Smith lives in a dystopian world controlled by the Party and its leader, Big Brother, where every action and thought is monitored. In the superstate of Oceania, history is rewritten, individuality is crushed, and propaganda dominates. Winston works at the Ministry of Truth, altering historical records to fit the Party's narrative, but secretly despises the regime. He begins a forbidden affair with Julia, a fellow dissenter, seeking solace in their shared rebellion. Together, they explore fleeting moments of freedom and humanity. However, their defiance leads to their capture and psychological torture by the Party. Winston is brainwashed into loving Big Brother, his spirit irreparably broken. The novel explores themes of totalitarianism, surveillance, and the manipulation of truth, serving as a cautionary tale about the dangers of unchecked political power and the loss of individual freedom."
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "coverpic": "https://i.ibb.co.com/N2fJpdc/pic4.jpg",
+        "writer_name": "Jane Austen",
+        "publications": "T. Egerton",
+        "published_date": "1813-01-28",
+        "story_in_short": "Elizabeth Bennet, the second eldest of five sisters, is intelligent and witty but holds strong prejudices against the aloof Mr. Darcy, whom she initially judges to be arrogant and dismissive. Their paths cross repeatedly through social events and mutual acquaintances, leading to a gradual shift in Elizabeth's perception. Meanwhile, her family faces challenges, including her younger sister Lydia's scandalous elopement with the untrustworthy Mr. Wickham. Despite his apparent coldness, Darcy secretly aids the Bennet family, revealing his true character. Elizabeth realizes that her initial judgments were flawed, and Darcy overcomes his pride to win her heart. The novel delves into themes of love, societal expectations, and the transformative power of understanding, portraying how two flawed but deeply human characters grow and find happiness together."
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "coverpic": "https://i.ibb.co.com/jbYkpbS/pic5.jpg",
+        "writer_name": "F. Scott Fitzgerald",
+        "publications": "Charles Scribner's Sons",
+        "published_date": "1925-04-10",
+        "story_in_short": "Jay Gatsby, a mysterious millionaire, throws lavish parties in hopes of reuniting with his former love, Daisy Buchanan, who lives across the bay with her unfaithful husband, Tom. Nick Carraway, Daisy’s cousin and Gatsby’s neighbor, becomes entangled in their world of wealth, deception, and longing. Through Nick’s eyes, the hollow nature of the American Dream is revealed, as Gatsby’s idealized love for Daisy blinds him to reality. Their reunion rekindles old feelings, but Daisy ultimately chooses Tom, leading to Gatsby’s tragic downfall. He takes the blame for a car accident caused by Daisy, resulting in his murder by a grieving husband. The novel captures the disillusionment of the Jazz Age, exposing the empty pursuit of wealth and status at the cost of true happiness and morality."
+    }
+]
